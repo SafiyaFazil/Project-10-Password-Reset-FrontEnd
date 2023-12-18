@@ -1,0 +1,62 @@
+ul {
+    list-style: none;
+}
+
+h1 {
+    color: rgb(32, 34, 155);
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.register {
+    background-color: rgba(179, 50, 121, 0.418);
+    border-radius: 30px;
+    padding: 20px;
+}
+
+.login {
+    background-color: rgba(85, 37, 196, 0.205);
+    border-radius: 50px;
+    padding: 2%;
+}
+
+.resetmain {
+    background-color: rgb(243, 6, 152);
+    padding: 1%;
+}
+
+.resetpage {
+    padding: 1%;
+    background-color: rgb(189, 9, 9);
+    border-radius: 30%;
+}
+
+.forget{
+    cursor: pointer;
+    color:rgb(28, 160, 87);
+}
+
+.forget:hover{
+    cursor: pointer;
+    color: azure;
+}
+
+.forget:active{
+    color: red;
+}
+
+.inputbox{
+    padding: 1%;
+    border-radius: 20px;
+}
+
+.button{
+    padding: 10px;
+    border-radius: 15px;
+    background-color: blueviolet;
+}
+
+.button:hover{
+    cursor: pointer;
+    color: azure;
+}
